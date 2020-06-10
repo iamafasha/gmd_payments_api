@@ -1,0 +1,20 @@
+{
+    "payments":[
+        {
+            "id":1,
+            "label":"cash before shipping"
+        },
+        {
+            "id":2,
+            "label":"auto queque from suplier"
+        },
+        {
+            "id":3,
+            "label":"cash on delivery"
+        },
+        {
+            "id":4,
+            "label":"normal queque before shipping"
+        }
+    ]
+}
